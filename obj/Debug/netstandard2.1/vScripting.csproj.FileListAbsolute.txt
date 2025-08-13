@@ -1,0 +1,17 @@
+C:\Users\godra\Desktop\cggg plugins\vScripting\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\godra\Desktop\cggg plugins\vScripting\bin\Debug\netstandard2.1\Il2Cppmscorlib.dll
+C:\Users\godra\Desktop\cggg plugins\vScripting\bin\Debug\netstandard2.1\Unity.TextMeshPro.dll
+C:\Users\godra\Desktop\cggg plugins\vScripting\bin\Debug\netstandard2.1\UnityEngine.PhysicsModule.dll
+C:\Users\godra\Desktop\cggg plugins\vScripting\bin\Debug\netstandard2.1\UnityEngine.UIModule.dll
+C:\Users\godra\Desktop\cggg plugins\vScripting\obj\Debug\netstandard2.1\vScripting.csproj.AssemblyReference.cache
+C:\Users\godra\Desktop\cggg plugins\vScripting\obj\Debug\netstandard2.1\PluginInfo.cs
+C:\Users\godra\Desktop\cggg plugins\vScripting\obj\Debug\netstandard2.1\vScripting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\godra\Desktop\cggg plugins\vScripting\obj\Debug\netstandard2.1\vScripting.AssemblyInfoInputs.cache
+C:\Users\godra\Desktop\cggg plugins\vScripting\obj\Debug\netstandard2.1\vScripting.AssemblyInfo.cs
+C:\Users\godra\Desktop\cggg plugins\vScripting\obj\Debug\netstandard2.1\vScripting.csproj.CoreCompileInputs.cache
+C:\Users\godra\Desktop\cggg plugins\vScripting\obj\Debug\netstandard2.1\vScripting.csproj.Up2Date
+C:\Users\godra\Desktop\cggg plugins\vScripting\bin\Debug\netstandard2.1\vScripting.deps.json
+C:\Users\godra\Desktop\cggg plugins\vScripting\bin\Debug\netstandard2.1\vScripting.dll
+C:\Users\godra\Desktop\cggg plugins\vScripting\bin\Debug\netstandard2.1\vScripting.pdb
+C:\Users\godra\Desktop\cggg plugins\vScripting\obj\Debug\netstandard2.1\vScripting.dll
+C:\Users\godra\Desktop\cggg plugins\vScripting\obj\Debug\netstandard2.1\vScripting.pdb
