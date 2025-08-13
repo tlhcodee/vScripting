@@ -6,6 +6,15 @@ Bu sistem sayesinde oyun içinde tetiklenen olaylara kendi kodunuzu yazabilir, d
 
 ---
 
+##  ​ Video
+
+[vScripting Tanıtım Videosu](https://www.youtube.com/watch?v=QdSnoFrAKyw)
+
+Bu videoda, vScripting sisteminin kurulumunu, temel sözdizimini, olay tabanlı çalışmasını ve örnek betikler aracılığıyla nasıl kullanılabileceğini görebilirsiniz.
+
+
+---
+
 ## ✨ Özellikler
 - Olay tabanlı betik sistemi (`olay` / `onEvent`)
 - Birden fazla dil desteği (Türkçe ve İngilizce anahtar kelimeler)
